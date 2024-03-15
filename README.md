@@ -106,7 +106,7 @@
             <h1>Image in-text backgroud</h1>
             <h2>CHITCH</h2>
             <h3>I know what you're thinking... <strong>"this is probably photoshop"</strong>. But it ain't lol. It's basic art done with code, designed to depict a <strong>cool blue fire in-text background</strong>.Below is an image of how this art is generated using <a href="https://en.wikipedia.org/wiki/HTML"><strong>HTML</strong></a> & <a href="https://www.w3schools.com/html/html_css.asp"><strong>CSS</strong></a></h3>
-            <img id="pic" src="C:\Users\Lenovo\.vscode\extensions\Img\IMG_20240310_231913.jpg" alt=" Code view">
+            <img id="pic" src="C:\Users\Lenovo\.vscode\extensions\Img\IMG_20240310_231913.JPG" alt=" Code view">
         </body>
         <footer class="LayoutBottom row">
        <h4>Feel free to browse our other projects below</h4>
