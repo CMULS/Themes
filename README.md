@@ -19,7 +19,7 @@
                     -webkit-background-clip: text;
                     -webkit-text-fill-color: transparent;
                     margin-top: 210px;
-                    font-size: 180px;
+                    font-size: 250px;
                     text-align: center;
                     font-weight: bold;
                     text-transform: uppercase;
@@ -85,7 +85,7 @@
                 }
                 h5 {
                     color: black;
-                    font-size: 23px;
+                    font-size: 33px;
                 } 
                 p {
                     color:brown;
