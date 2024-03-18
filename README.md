@@ -85,7 +85,7 @@
                 }
                 h5 {
                     color: black;
-                    font-size: 33px;
+                    font-size: 28px;
                 } 
                 p {
                     color:brown;
