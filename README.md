@@ -9,7 +9,7 @@
                 h1 {
                     color: white;
                     text-align: center;
-                    font-size: 170px;
+                    font-size: 150px;
                 }
 
 
