@@ -50,7 +50,7 @@
                     img-align: center;
                 } 
                 #image {
-                    max-width: 30%;
+                    max-width: 50%;
                     display: inline-block;
                 } 
                 #figcaption {
@@ -84,10 +84,11 @@
                 }
                 h5 {
                     color: black;
-                    font-size: 20px;
+                    font-size: 23px;
                 } 
                 p {
                     color:brown;
+                    font-size: 50px;
                 }
                 
                 </style>
