@@ -32,6 +32,7 @@
                 }
                 h3 {
                     color: white;
+                    font-size: 45px;
                     
                 }
                 h4 {
