@@ -1,9 +1,9 @@
- <!DOCTYPE html> 
-    <html>
-        <head>
-            <title>
-                Blue fire cool text 
-            </title>
+  
+    <html lang="en">
+    <head>
+        <title>
+            Blue fire cool text 
+        </title>
             
             <style>
                 h1 {
